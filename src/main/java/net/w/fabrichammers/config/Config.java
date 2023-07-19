@@ -38,7 +38,7 @@ public class Config {
     }};
 
     private float hammerDurabilityMultipier = 3.0F;
-    private boolean enableEmeradlTools = true;
+    private boolean enableEmeradlTools = false;
 
 
 
